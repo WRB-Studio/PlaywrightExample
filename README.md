@@ -1,2 +1,2 @@
 # PlaywrightExample
-A simple playwright test example
+A simple playwright test example.
